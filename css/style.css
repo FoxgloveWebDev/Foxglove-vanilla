@@ -1,0 +1,55 @@
+#body
+{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header
+{
+    display: flex;
+}
+
+.logo img
+{
+    width: 80%;
+    height: auto;
+}
+
+#nav
+{
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 2em;
+    margin-top: 0px;
+}
+
+#nav a
+{
+    color: purple;
+    text-decoration: none;
+}
+
+#nav a:hover
+{
+    text-decoration: underline;
+}
+
+
+#nav ul
+{
+    margin: 1rem;
+}
+
+
+#mosaic img
+{
+    text-align: center;
+    width: 15%;
+    height: auto;
+    border: 2px black solid;
+    margin: 0.5em;
+}

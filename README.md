@@ -1,0 +1,1 @@
+Vanilla version of Foxglove WebDev : html, css, js.
